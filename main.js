@@ -1,1 +1,0 @@
-jackHarnerSig(true);

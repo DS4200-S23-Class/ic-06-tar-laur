@@ -16,8 +16,8 @@ Clone this repo and work locally. Be sure to push the final version of your code
 1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`. 
 
 1. Open the index.html file included in your repo. Please do the following: 
-   - Title your webpage "ic-06". 
-   - Add a heading that says "JavaScript Part 2".
+   - Title your webpage "ic-06". *
+   - Add a heading that says "JavaScript Part 2". *
    - Add an svg to your page to "frame" the visual you will create.
    - Add a circle to the top right corner of your frame (reader perspective).
    - Add a dark blue, thick line parallel to the bottom of your frame (reader perspective).   
