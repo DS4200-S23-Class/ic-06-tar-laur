@@ -1,0 +1,15 @@
+.border {
+  border: 50px solid;
+  border-image-source: url(https://harnerdesigns.com/wp-content/uploads/2018/08/border.svg);
+  width: 30vw;
+  height: 30vw;
+  border-image-slice: 170;
+}
+
+body {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
